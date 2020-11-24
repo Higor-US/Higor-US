@@ -1,4 +1,4 @@
-# Hello everybody
+# Hello guys
 
 ``` bash
 Only a small programmer, and configurator (:
