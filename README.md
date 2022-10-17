@@ -15,6 +15,6 @@ I plan more in the programming world mainly with backend.
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 ## GITHUB
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-us)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-us&theme=radical)](https://github.com/higor-us/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-us&layout=compact)](https://github.com/higor-us/)
 
