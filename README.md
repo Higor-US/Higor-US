@@ -21,7 +21,6 @@ I'm focusing on growing in the programming field, mainly in backend development.
 - 📚 Always improving my skills in systems and servers
 
 ## GITHUB
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-us&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=higor-us&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=higor-us&theme=tokyonight)
 
