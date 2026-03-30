@@ -1,8 +1,8 @@
 # :octocat: Higor-US
 
 ``` bash
-I'm currently working with linux servers / windows server, enthusiast for network technologies.
-I plan more in the programming world mainly with backend.
+I'm currently working with Linux servers and Windows Server, and I'm an enthusiast for network technologies.  
+I'm focusing on growing in the programming field, mainly in backend development.
 ```
 ##
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
@@ -14,7 +14,14 @@ I plan more in the programming world mainly with backend.
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
+## 👨‍💻 About Me
+- 💻 Working with Linux & Windows Server
+- 🌐 Passionate about networking and infrastructure
+- ⚙️ Learning backend development (Node.js)
+- 📚 Always improving my skills in systems and servers
+
 ## GITHUB
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-us&show_icons=true&theme=transparent)](https://github.com/higor-us/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor-us&show_icons=true&theme=transparent&layout=compact)](https://github.com/higor-us/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=higor-us&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=higor-us&theme=tokyonight)
 
