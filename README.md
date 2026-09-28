@@ -1,35 +1,45 @@
-## :octocat: Higor-US
+# 👋 Hey, I'm Higor-US
 
-> Working with Linux servers and Windows Server, passionate about networking and infrastructure.  
-> Focused on growing in backend development.
+> 🖥️ Working with **Linux & Windows Server**
+> 🌐 Passionate about **networking & infrastructure**
+> ⚙️ Focused on growing in **backend development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-PHP-777BB4?logo=php&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Laravel-FF2D20?logo=laravel&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-MariaDB-003545?logo=mariadb&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Pterodactyl-1DE9B6?logo=pterodactyl&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+### 💻 Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=fff)
+
+### 🖥️ Infrastructure & Systems
+
+![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge\&logo=linux\&logoColor=fff)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=fff)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1DE9B6?style=for-the-badge\&logo=pterodactyl\&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=fff)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=fff)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Working with Linux & Windows Server
-- 🌐 Passionate about networking and infrastructure
-- ⚙️ Learning backend development (Node.js & Laravel)
-- 🐦 Managing and customizing Pterodactyl panels
-- 🗄️ Working with MariaDB databases
-- 📚 Always improving my skills in systems and servers
+* 💻 Working with **Linux & Windows Server**
+* 🌐 Passionate about **networking and infrastructure**
+* ⚙️ Learning **backend development with Node.js & Laravel**
+* 🐦 Managing and customizing **Pterodactyl**
+* 🗄️ Working with **MariaDB databases**
+* 📚 Always improving my skills in **systems, servers and development**
 
 ---
 
@@ -37,7 +47,47 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=higor-us&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=higor-us&theme=tokyonight)
+<img
+src="https://github-readme-stats.vercel.app/api?username=higor-us&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="180"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=higor-us&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-us&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Higor--US-181717?style=for-the-badge\&logo=github)](https://github.com/higor-us)
+
+</div>
+
+---
+
+<div align="center">
+
+### `SERVERS • NETWORKING • DEVELOPMENT • INFRASTRUCTURE`
+
+**Better every day. 🚀**
 
 </div>
